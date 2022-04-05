@@ -8,8 +8,6 @@ console.log(customers)
     <div>Address</div>
     <div>DOB:</div>
     <div>Customer since:</div>
-</div>
-</div>
 </div> */
 
 // asking the js to build one of these for each customer
